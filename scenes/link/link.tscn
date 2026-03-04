@@ -1,0 +1,70 @@
+[gd_scene load_steps=8 format=3 uid="uid://cm5mi1v6hb52k"]
+
+[ext_resource type="Texture2D" uid="uid://drnrxmk1fnbps" path="res://assets/link/link_green_parts_cutted.png" id="1_1xp5x"]
+[ext_resource type="Script" uid="uid://drfeako0nuput" path="res://scenes/link/link.gd" id="1_vdxn8"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_vdxn8"]
+atlas = ExtResource("1_1xp5x")
+region = Rect2(48, 16, 16, 16)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_a7utu"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_vdxn8")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"move_down",
+"speed": 8.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"move_up",
+"speed": 6.0
+}]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_fn6gi"]
+atlas = ExtResource("1_1xp5x")
+region = Rect2(16, 0, 16, 16)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_7mn31"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_fn6gi")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_1xp5x"]
+radius = 7.0
+height = 20.0
+
+[node name="Link" type="CharacterBody2D"]
+collision_mask = 0
+script = ExtResource("1_vdxn8")
+
+[node name="BodyParts" type="Marker2D" parent="."]
+metadata/_edit_group_ = true
+
+[node name="Body" type="AnimatedSprite2D" parent="BodyParts"]
+position = Vector2(0, 2)
+sprite_frames = SubResource("SpriteFrames_a7utu")
+animation = &"idle"
+frame_progress = 0.44444454
+
+[node name="Head" type="AnimatedSprite2D" parent="BodyParts"]
+position = Vector2(0, -6)
+sprite_frames = SubResource("SpriteFrames_7mn31")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -2)
+shape = SubResource("CapsuleShape2D_1xp5x")
+debug_color = Color(0.28808498, 0.56455564, 0.7605489, 0.41960785)

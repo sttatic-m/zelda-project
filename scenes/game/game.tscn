@@ -1,3 +1,15 @@
-[gd_scene format=3 uid="uid://o2knweejchj"]
+[gd_scene load_steps=3 format=3 uid="uid://o2knweejchj"]
+
+[ext_resource type="Texture2D" uid="uid://cqfy8shjlrky8" path="res://assets/overworld/hyrule_castle_placeholder.png" id="1_sul5r"]
+[ext_resource type="PackedScene" uid="uid://cm5mi1v6hb52k" path="res://scenes/link/link.tscn" id="2_7h61r"]
 
 [node name="Game" type="Node"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(-384, -112)
+texture = ExtResource("1_sul5r")
+centered = false
+metadata/_edit_lock_ = true
+
+[node name="Link" parent="." instance=ExtResource("2_7h61r")]
+position = Vector2(129, 99)
