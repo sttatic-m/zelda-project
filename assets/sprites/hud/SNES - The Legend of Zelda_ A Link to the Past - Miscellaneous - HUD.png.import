@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cgs05urqgy6p4"
-path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Tilesets - Cliff & Water Tiles.png-7d9899c6101253b9cdace602d3c1ab2b.ctex"
+uid="uid://ch4uixiehb3qr"
+path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Miscellaneous - HUD.png-457e1e0603ef9e2ef0257cf04f611c77.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/overworld/SNES - The Legend of Zelda_ A Link to the Past - Tilesets - Cliff & Water Tiles.png"
-dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Tilesets - Cliff & Water Tiles.png-7d9899c6101253b9cdace602d3c1ab2b.ctex"]
+source_file="res://assets/sprites/hud/SNES - The Legend of Zelda_ A Link to the Past - Miscellaneous - HUD.png"
+dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Miscellaneous - HUD.png-457e1e0603ef9e2ef0257cf04f611c77.ctex"]
 
 [params]
 

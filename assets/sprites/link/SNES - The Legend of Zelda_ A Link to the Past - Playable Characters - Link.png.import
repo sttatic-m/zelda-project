@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cbewrv1fbpsms"
-path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Tilesets - Overworld Tiles.png-906ddc614de93c501b197a59c3471209.ctex"
+uid="uid://do16p0vgy4lok"
+path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Playable Characters - Link.png-e8a4fe26e61f3440118b104e3f8c0dd9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/overworld/SNES - The Legend of Zelda_ A Link to the Past - Tilesets - Overworld Tiles.png"
-dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Tilesets - Overworld Tiles.png-906ddc614de93c501b197a59c3471209.ctex"]
+source_file="res://assets/sprites/link/SNES - The Legend of Zelda_ A Link to the Past - Playable Characters - Link.png"
+dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Playable Characters - Link.png-e8a4fe26e61f3440118b104e3f8c0dd9.ctex"]
 
 [params]
 

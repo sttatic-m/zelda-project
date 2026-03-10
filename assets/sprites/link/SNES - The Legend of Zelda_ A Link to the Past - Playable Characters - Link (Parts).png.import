@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://do16p0vgy4lok"
-path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Playable Characters - Link.png-93622cf2a7c472db8e4f7b42a6382c9f.ctex"
+uid="uid://c252r1nux10qj"
+path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Playable Characters - Link (Parts).png-1aaeb08dd92db896d70aa30556b9ed0d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/link/SNES - The Legend of Zelda_ A Link to the Past - Playable Characters - Link.png"
-dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Playable Characters - Link.png-93622cf2a7c472db8e4f7b42a6382c9f.ctex"]
+source_file="res://assets/sprites/link/SNES - The Legend of Zelda_ A Link to the Past - Playable Characters - Link (Parts).png"
+dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Playable Characters - Link (Parts).png-1aaeb08dd92db896d70aa30556b9ed0d.ctex"]
 
 [params]
 

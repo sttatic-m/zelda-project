@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ch4uixiehb3qr"
-path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Miscellaneous - HUD.png-29eb5d520eb3b12b7aac75015bdb155f.ctex"
+uid="uid://debt88o7mheem"
+path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Tilesets - Lost Woods Tiles.png-01075b914f0b386bf97f0ab026703aa1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/hud/SNES - The Legend of Zelda_ A Link to the Past - Miscellaneous - HUD.png"
-dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Miscellaneous - HUD.png-29eb5d520eb3b12b7aac75015bdb155f.ctex"]
+source_file="res://assets/sprites/overworld/SNES - The Legend of Zelda_ A Link to the Past - Tilesets - Lost Woods Tiles.png"
+dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Tilesets - Lost Woods Tiles.png-01075b914f0b386bf97f0ab026703aa1.ctex"]
 
 [params]
 

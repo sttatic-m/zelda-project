@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://debt88o7mheem"
-path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Tilesets - Lost Woods Tiles.png-d3cd95c2b42f06c5370a3d1d8a727d3e.ctex"
+uid="uid://bulx42hs8fa77"
+path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Effects - Bombs & Explosions.png-71d759f2aac75efdb38eeea628127d01.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/overworld/SNES - The Legend of Zelda_ A Link to the Past - Tilesets - Lost Woods Tiles.png"
-dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Tilesets - Lost Woods Tiles.png-d3cd95c2b42f06c5370a3d1d8a727d3e.ctex"]
+source_file="res://assets/sprites/effects/SNES - The Legend of Zelda_ A Link to the Past - Effects - Bombs & Explosions.png"
+dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Effects - Bombs & Explosions.png-71d759f2aac75efdb38eeea628127d01.ctex"]
 
 [params]
 

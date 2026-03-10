@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bulx42hs8fa77"
-path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Effects - Bombs & Explosions.png-00b508ff253197f3698b59331e081411.ctex"
+uid="uid://bmbuj3n4mv7pe"
+path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Dungeons - Hyrule Castle.png-10ed90a2326c5caccadfbd8d0f0be761.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/effects/SNES - The Legend of Zelda_ A Link to the Past - Effects - Bombs & Explosions.png"
-dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Effects - Bombs & Explosions.png-00b508ff253197f3698b59331e081411.ctex"]
+source_file="res://assets/sprites/overworld/SNES - The Legend of Zelda_ A Link to the Past - Dungeons - Hyrule Castle.png"
+dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Dungeons - Hyrule Castle.png-10ed90a2326c5caccadfbd8d0f0be761.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://drnrxmk1fnbps"
-path="res://.godot/imported/link_green_parts_cutted.png-60a98715a6736e44bdb6270f7ff303ff.ctex"
+uid="uid://cqfy8shjlrky8"
+path="res://.godot/imported/hyrule_castle_placeholder.png-3244b703c1e412d66ef83cddda988e68.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/link/link_green_parts_cutted.png"
-dest_files=["res://.godot/imported/link_green_parts_cutted.png-60a98715a6736e44bdb6270f7ff303ff.ctex"]
+source_file="res://assets/sprites/overworld/hyrule_castle_placeholder.png"
+dest_files=["res://.godot/imported/hyrule_castle_placeholder.png-3244b703c1e412d66ef83cddda988e68.ctex"]
 
 [params]
 

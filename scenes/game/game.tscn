@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://o2knweejchj"]
 
-[ext_resource type="Texture2D" uid="uid://cqfy8shjlrky8" path="res://assets/overworld/hyrule_castle_placeholder.png" id="1_sul5r"]
+[ext_resource type="Texture2D" uid="uid://cqfy8shjlrky8" path="res://assets/sprites/overworld/hyrule_castle_placeholder.png" id="1_sul5r"]
 [ext_resource type="PackedScene" uid="uid://cm5mi1v6hb52k" path="res://scenes/link/link.tscn" id="2_7h61r"]
 
 [node name="Game" type="Node"]

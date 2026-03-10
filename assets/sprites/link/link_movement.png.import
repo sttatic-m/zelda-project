@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cj2qg5ckkworb"
-path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Effects - Enemy Death Effects.png-3755247eb80ede99215e0e425b36478b.ctex"
+uid="uid://bhye0jinfhoxw"
+path="res://.godot/imported/link_movement.png-ce9d3cc14b97909e6308c837bbdf2f23.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/effects/SNES - The Legend of Zelda_ A Link to the Past - Effects - Enemy Death Effects.png"
-dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Effects - Enemy Death Effects.png-3755247eb80ede99215e0e425b36478b.ctex"]
+source_file="res://assets/sprites/link/link_movement.png"
+dest_files=["res://.godot/imported/link_movement.png-ce9d3cc14b97909e6308c837bbdf2f23.ctex"]
 
 [params]
 

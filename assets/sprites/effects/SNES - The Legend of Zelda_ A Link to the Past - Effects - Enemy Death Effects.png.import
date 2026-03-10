@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cqfy8shjlrky8"
-path="res://.godot/imported/hyrule_castle_placeholder.png-ceb56462d183b42e758c7635adc77680.ctex"
+uid="uid://cj2qg5ckkworb"
+path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Effects - Enemy Death Effects.png-61752606a7b212f1942058e27658fb8d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/overworld/hyrule_castle_placeholder.png"
-dest_files=["res://.godot/imported/hyrule_castle_placeholder.png-ceb56462d183b42e758c7635adc77680.ctex"]
+source_file="res://assets/sprites/effects/SNES - The Legend of Zelda_ A Link to the Past - Effects - Enemy Death Effects.png"
+dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Effects - Enemy Death Effects.png-61752606a7b212f1942058e27658fb8d.ctex"]
 
 [params]
 

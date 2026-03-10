@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bmbuj3n4mv7pe"
-path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Dungeons - Hyrule Castle.png-ab6ef4ec8753665bbde8244499d086b3.ctex"
+uid="uid://ciiaaipmn7qqy"
+path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Effects - Bush & Pot SFX.png-6e9768c5034f664ef78562a0081464ec.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/overworld/SNES - The Legend of Zelda_ A Link to the Past - Dungeons - Hyrule Castle.png"
-dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Dungeons - Hyrule Castle.png-ab6ef4ec8753665bbde8244499d086b3.ctex"]
+source_file="res://assets/sprites/effects/SNES - The Legend of Zelda_ A Link to the Past - Effects - Bush & Pot SFX.png"
+dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Effects - Bush & Pot SFX.png-6e9768c5034f664ef78562a0081464ec.ctex"]
 
 [params]
 

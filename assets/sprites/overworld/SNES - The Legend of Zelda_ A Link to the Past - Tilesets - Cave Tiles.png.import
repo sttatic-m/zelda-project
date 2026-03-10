@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bxvqiwo6nj50n"
-path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Miscellaneous - Items (Overworld).png-bb1ce0081f63b22ae4ebc21839379a72.ctex"
+uid="uid://d1wnkb2ahrxd3"
+path="res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Tilesets - Cave Tiles.png-28c1ae6daea47e2561b2dfdd1247708a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/items/SNES - The Legend of Zelda_ A Link to the Past - Miscellaneous - Items (Overworld).png"
-dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Miscellaneous - Items (Overworld).png-bb1ce0081f63b22ae4ebc21839379a72.ctex"]
+source_file="res://assets/sprites/overworld/SNES - The Legend of Zelda_ A Link to the Past - Tilesets - Cave Tiles.png"
+dest_files=["res://.godot/imported/SNES - The Legend of Zelda_ A Link to the Past - Tilesets - Cave Tiles.png-28c1ae6daea47e2561b2dfdd1247708a.ctex"]
 
 [params]
 
